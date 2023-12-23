@@ -3,4 +3,5 @@ librosa
 matplotlib
 numpy
 reservoirpy
+tqdm
 ```
